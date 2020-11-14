@@ -1,0 +1,4 @@
+flair==0.4.2
+Scrapy==2.4.0
+selenium = 3.141.0
+lxml = 4.5.2
